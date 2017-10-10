@@ -6,7 +6,7 @@
         {
             //qual banco ser� utilizado=mysql
             //nome do servidor onde est� o banco de dados = localhost
-            //nome do banco de dados = loja
+            //nome do banco de dados = order_coffee
             //define charset
             $dc="mysql:host=localhost;dbname=order_coffee;charset=utf8";
             $utf = array(
